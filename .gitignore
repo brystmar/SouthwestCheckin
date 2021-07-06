@@ -4,3 +4,5 @@
 .coverage
 htmlcov/
 coverage.xml
+venv/
+/venv/

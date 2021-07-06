@@ -1,0 +1,15 @@
+# Base requirements for the SouthwestCheckin app
+
+coverage
+datetime
+docopts
+pycodestyle
+pytest
+pytest-cov
+pytest-mock
+python-dateutil
+pytz
+requests
+requests_mock
+uuid
+vcrpy
